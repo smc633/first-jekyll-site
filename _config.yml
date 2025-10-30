@@ -3,7 +3,6 @@ title: Cool Website
 subtitle: by Sarah Clarke
 email: sarah.clarke@ace-net.ca
 description: Sharing thoughts and ideas!
-baseurl: "/user29" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
